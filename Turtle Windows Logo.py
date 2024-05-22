@@ -1,0 +1,28 @@
+import turtle
+import time
+
+t = turtle.Turtle()
+s = turtle.Screen()
+
+t.speed(2)
+s.bgcolor("white")
+t.penup()
+t.goto(-100,120)
+t.pendown()
+t.color("#00adef")
+t.begin_fill()
+t.goto(200,200)
+t.goto(200,-200)
+t.goto(-100,-120)
+t.goto(-100,120)
+t.end_fill()
+t.color("white")
+t.goto(30,200)
+t.color("white")
+t.width(15)
+t.goto(30,-200)
+t.penup()
+t.goto(200,0)
+t.pendown()
+t.goto(-200,0)
+turtle.done()
