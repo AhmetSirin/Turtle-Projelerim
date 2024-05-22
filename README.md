@@ -10,5 +10,5 @@ Merhaba! Ben Ahmet Şirin. Bu repo, Python Turtle ile yaptığım projeleri içe
 
 ## İletişim
 
-Daha fazla bilgi veya sorularınız için LinkedIn üzerinden benimle iletişime geçebilirsiniz: [Ahmet Şirin LinkedIn](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Daha fazla bilgi veya sorularınız için LinkedIn üzerinden benimle iletişime geçebilirsiniz: [Ahmet Şirin LinkedIn](https://www.linkedin.com/in/ahmet-sirin2211/)
 
